@@ -1,0 +1,5 @@
+/* pages/list/list.wxss */
+.weui-media-box__info{
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}

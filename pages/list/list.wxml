@@ -1,0 +1,14 @@
+<view class="weui-panel">
+  <view class="weui-panel__hd">湘菜</view>
+    <view wx:for="{{list}}" wx:key="*this" class="weui-panel__bd">
+        <view class="weui-media-box weui-media-box_text">
+          <view class="weui-media-box__title weui-media-box__title_in-text">麻辣小龙虾</view>
+          <view class="weui-media-box__desc">麻辣小龙虾麻辣小龙虾麻辣小龙虾麻辣小龙虾麻辣小龙虾麻辣小龙虾麻辣小龙虾麻辣小龙虾麻辣小龙虾</view>
+          <view class="weui-media-box__info">
+            <view class="weui-media-box__info__meta">文字来源: 下厨房</view>
+            <view class="weui-media-box__info__meta">时间: 2018-03-14</view>
+            <view class="weui-media-box__info__meta weui-media-box__info__meta_extra">作者: XXX</view>
+          </view>
+    </view>
+  </view>
+</view>

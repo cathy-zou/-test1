@@ -1,0 +1,7 @@
+/**index.wxss**/
+.container{
+  padding: 0
+}
+.page__title{
+    padding-left: 10px
+}
